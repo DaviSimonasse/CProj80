@@ -1,0 +1,21 @@
+h3 {
+    color: darkcyan;
+    font-size: 20px;
+}
+input {
+    margin: 10px;
+}
+#mostrar {
+  border: 1px solid lightgreen;
+  padding: 10px;
+  background-color: greenyellow;
+  border-radius: 10px;
+  width: 50%;
+}
+#lista {
+    border: 1px solid lightgreen;
+    padding: 10px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    width: 50%;
+}
